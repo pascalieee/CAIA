@@ -1,7 +1,9 @@
 [user]
 	email = pascal.trabbia@yahoo.fr
 	name = pascalieee
-[filter "lfs"]
-	smudge = git-lfs smudge %f
-	required = true
-	clean = git-lfs clean %f
+[gui]
+	recentrepo = C:/Users/pascal/Documents/_LIVRABLES_CAIA
+[push]
+	default = matching
+
+
